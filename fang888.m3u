@@ -105,6 +105,8 @@ http://junlovefang.top:80/yfy.php?id=43063
 http://junlovefang.top:80/yfy.php?id=51010
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="央视直播",CHC动作电影
 http://junlovefang.top:80/yfy.php?id=51011
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视直播",CHC华城影视
+http://live1.nty.tv189.com/tm-cridyty-800k.m3u8?sign=447e08a3c96ee3dc63749e073ac1db18&qualityCode=&qualityid=2048&version=1&guid=5ab91344-691d-398c-f7d4-fa3a2a57ecdc&app=115020310221&cookie=b78f0aedd5c2895b44d5db43b4c8a512&session=b78f0aedd5c2895b44d5db43b4c8a512&uid=104410783305917200221&uname=158839825%40imsi&time=20210221175853&videotype=1&cid=C8000000000000000001515994842250&cname=&cateid=&dev=000001&ep=1&os=30&ps=0099&clienttype=M5+Note&appver=5.5.3.15&res=1080%2A1920&channelid=01181620&pid=1000000432&orderid=&nid=&cp=00000335&sp=00000014&ip=210.0.159.154&ipSign=7311c659a6a5fa0bdae24c7a53
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视直播",北京卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225674/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视直播",湖南卫视
@@ -142,9 +144,9 @@ http://39.130.206.213:6410/gitv_live/G_GUIZHOU-HD/G_GUIZHOU-HD.m3u8
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视直播",广西卫视
 http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/ysp/2000294203.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视直播",四川卫视
-http://39.135.225.5:18890/PLTV/88888888/224/3221227006/1.m3u8
+http://39.130.206.213:6410/gitv_live/G_SICHUAN-HD/G_SICHUAN-HD.m3u8
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视直播",河北卫视
-http://39.135.9.77:80/gz.ucdn.10086.cn/PLTV/88888888/224/3221226058/1/index.m3u8?fmt=ts2hls
+http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/ysp/2000293403.m3u8
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视直播",河南卫视
 http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/ysp/2000296103.m3u8
 #EXTINF:-1 tvg-id="37" tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视直播",海南卫视
@@ -162,7 +164,7 @@ http://stream4.jlntv.cn/test2/sd/live.m3u8
 #EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视直播",青海卫视
 http://live.geermurmt.com/qhws/sd/live.m3u8
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视直播",厦门卫视
-http://39.135.225.5:18890/PLTV/88888888/224/3221226781/1.m3u8
+http://cstvalic.v.myalicdn.com/cstv/xiamen_1/index.m3u8
 #EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视直播",山西卫视
 http://junlovefang.top:80/yqyx.php?id=166
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视直播",西藏卫视
@@ -170,7 +172,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
 #EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视直播",内蒙古卫视
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229043/index.m3u8
 #EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视直播",宁夏卫视
-http://39.135.225.5:18890/PLTV/88888888/224/3221225849/1.m3u8
+http://junlovefang.top:80:80/yfy.php?id=69
 #EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视直播",兵团卫视
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229046/index.m3u8
 #EXTINF:-1 tvg-id="63" tvg-name="延边卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="卫视直播",延边卫视
